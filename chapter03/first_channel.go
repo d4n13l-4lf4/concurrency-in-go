@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+/* A channel is blocking by itself */
 var waitGroup sync.WaitGroup
 
 func main() {
