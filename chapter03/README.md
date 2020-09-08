@@ -6,3 +6,4 @@
 - sync.Cond (.Signal, .Broadcast)
 - sync.Once
 - sync.Pool
+- channels
