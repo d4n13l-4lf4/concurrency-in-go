@@ -5,3 +5,7 @@
 - Cancellation signal
 - Error handling
 - Pipelines
+- Handy generators
+- Fan-Out, Fan-In
+- The or-done channel
+- Tee channel
