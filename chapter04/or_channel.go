@@ -5,9 +5,9 @@ import (
 	"time"
 )
 
-var or func(channels ...<-chan interface{}) <- chan interface{}
-
 func main() {
+	var or func(channels ...<-chan interface{}) <- chan interface{}
+
 	or = func(channels ...<-chan interface{}) <- chan interface{} {
 		switch len(channels) {
 		case 0:
