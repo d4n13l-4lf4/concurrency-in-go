@@ -9,3 +9,6 @@
 - Fan-Out, Fan-In
 - The or-done channel
 - Tee channel
+- Bridge channel
+- Queuing
+- The context package
